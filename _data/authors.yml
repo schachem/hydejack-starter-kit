@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
-author1:
+schachem:
   # Replace <...> with your own (remove the < >)
   name:              Markus Schacherbauer
   email:             schacherbauer@me.com
@@ -26,21 +26,21 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         <username>
-    github:          <username>
-    download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
-    # email:           mailto:<mail@domain.tld>
+    # twitter:         <username>
+    github:            schachem
+    # download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
+    email:             mailto:schacherbauer@me.com
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
+    facebook:          markus.schacherbauer
+    instagram:         iamschachem
+    spotify:           savernos
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
     # vine:            <username>
-    # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
