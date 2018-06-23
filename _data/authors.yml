@@ -9,11 +9,25 @@ schachem:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Hey, I'm Markus and this is my blog [currently under construction].
+    I'm planning to post about my own developments and successes in anything tech
+    related like learning new programming languages and DIY projects mainly to
+    kind of develop a habit and motivate myself to learn new things.
 
-    Open `_data/authors.yml` to edit this text.
+    And if someone want's to join me on my journey that's fine, but actually i really don't expect anybody
+    to read this.
+
+    The longer I think about it, I can not promise that one day this might end in a food blog.
+
+    Neverless, some information about me:
+
+    *   I'm 20 years old
+    *   I live near Passau, a city located in lower bavaria
+    *   I'm studying 'Mobile and Embedded Systems' at the university of Passau
+    *   I like black tea
+
+    That's everthing I wanted to say for now, but this section will develop further in the near future for quite sure.
+    Have fun!
 
   # This photo will be used in the about section.
   picture:
