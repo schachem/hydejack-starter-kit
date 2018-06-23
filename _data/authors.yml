@@ -63,7 +63,7 @@ schachem:
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
-    # paypal:          <username>
+    paypal:            samapho
 
 # Another author
 author2:
