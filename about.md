@@ -4,7 +4,7 @@
 layout: about
 
 # The title of the page.
-title: About 
+title: About
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -18,7 +18,7 @@ hide_description: true
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
 ---
-Hey, I’m Markus and this is my blog [currently under construction]. I’m planning to post about my own developments and successes in anything tech related like learning new programming languages and DIY projects mainly to kind of develop a habit and motivate myself to learn new things.
+I’m planning to post about my own developments and successes in anything tech related like learning new programming languages and DIY projects mainly to kind of develop a habit and motivate myself to learn new things.
 
 And if someone want’s to join me on my journey that’s fine, but actually i really don’t expect anybody to read this.
 
