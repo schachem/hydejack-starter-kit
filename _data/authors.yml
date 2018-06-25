@@ -9,8 +9,7 @@ schachem:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-  **Hey there!**
-  I'm Markus and creator of this blog. 
+  **Hey there!** I'm Markus and creator of this blog. 
 
   # This photo will be used in the about section.
   picture:
